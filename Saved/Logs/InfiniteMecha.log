@@ -1172,3 +1172,364 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.03-13.33.46:685][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: ea7ccb35d0ea8f6e87046940d1be13d9fce54740), compiling. 
 [2025.01.03-13.33.46:724][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1dca83918110ecc8442335d84bf1de010705303b), compiling. 
 [2025.01.03-13.33.49:823][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2025.01.03-13.35.38:292][  0]LogDerivedDataCache: C:/Users/Tjerk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.03-13.51.49:154][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: dd85f4dc864ea0c3d2a38408e79abeb7aaf82a7d), compiling. 
+[2025.01.03-13.51.49:160][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-NC8IK4V: (Name=DESKTOP-NC8IK4V, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2025.01.03-13.51.50:788][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.01.03-13.51.50:788][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.01.03-13.51.50:788][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.01.03-13.51.50:788][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.01.03-13.51.50:788][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.01.03-13.51.51:054][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 4.35ms
+[2025.01.03-13.51.51:111][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 4.00ms
+[2025.01.03-13.51.51:142][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 3.74ms
+[2025.01.03-13.51.51:153][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 3.72ms
+[2025.01.03-13.51.51:543][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.01.03-13.51.51:543][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.01.03-13.51.51:557][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.01.03-13.51.51:558][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.01.03-13.51.51:559][  0]LogLiveCoding: Display: First instance in process group "UE_InfiniteMecha_0xf31d68d1", spawning console
+[2025.01.03-13.51.51:569][  0]LogLiveCoding: Display: Waiting for server
+[2025.01.03-13.51.51:610][  0]LogSlate: Border
+[2025.01.03-13.51.51:610][  0]LogSlate: BreadcrumbButton
+[2025.01.03-13.51.51:610][  0]LogSlate: Brushes.Title
+[2025.01.03-13.51.51:610][  0]LogSlate: Default
+[2025.01.03-13.51.51:610][  0]LogSlate: Icons.Save
+[2025.01.03-13.51.51:610][  0]LogSlate: Icons.Toolbar.Settings
+[2025.01.03-13.51.51:610][  0]LogSlate: ListView
+[2025.01.03-13.51.51:610][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.01.03-13.51.51:610][  0]LogSlate: SoftwareCursor_Grab
+[2025.01.03-13.51.51:610][  0]LogSlate: TableView.DarkRow
+[2025.01.03-13.51.51:610][  0]LogSlate: TableView.Row
+[2025.01.03-13.51.51:610][  0]LogSlate: TreeView
+[2025.01.03-13.51.51:925][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.01.03-13.51.51:931][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 5.837 ms
+[2025.01.03-13.51.51:976][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 7.47ms
+[2025.01.03-13.51.52:028][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.01.03-13.51.52:028][  0]LogInit: XR: MultiViewport is Disabled
+[2025.01.03-13.51.52:028][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.01.03-13.51.52:330][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 5.87ms
+[2025.01.03-13.51.52:777][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.01.03-13.51.52:785][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.01.03-13.51.52:786][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.01.03-13.51.52:787][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50523'.
+[2025.01.03-13.51.52:794][  0]LogUdpMessaging: Display: Added local interface '192.168.178.150' to multicast group '230.0.0.1:6666'
+[2025.01.03-13.51.53:543][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.01.03-13.51.53:543][  0]LogNNERuntimeORT: 0: NVIDIA GeForce GTX 1660 Ti (Compute, Graphics)
+[2025.01.03-13.51.53:543][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2025.01.03-13.51.53:543][  0]LogNNERuntimeORT: No NPU adapter found!
+[2025.01.03-13.51.53:583][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3A8F89079A7C49A7800000000000F900 | Instance: 5C9F21F046F8C5349A4A778317EF924E (DESKTOP-NC8IK4V-15164).
+[2025.01.03-13.51.53:965][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.01.03-13.51.53:966][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.01.03-13.51.54:020][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.01.03-13.51.54:671][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.01.03-13.51.55:148][  0]SourceControl: Revision control is disabled
+[2025.01.03-13.51.55:170][  0]SourceControl: Revision control is disabled
+[2025.01.03-13.51.55:190][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.55:191][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.55:192][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.55:235][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 3.57ms
+[2025.01.03-13.51.55:266][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 4.41ms
+[2025.01.03-13.51.55:514][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.01.03-13.51.55:514][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.01.03-13.51.55:601][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.01.03-13.51.55:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.01.03-13.51.55:688][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.01.03-13.51.55:688][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.01.03-13.51.55:814][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.01.03-13.51.55:816][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.01.03-13.51.55:817][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.01.03-13.51.55:819][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.01.03-13.51.55:822][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.01.03-13.51.55:824][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.01.03-13.51.55:828][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.01.03-13.51.55:832][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.01.03-13.51.55:832][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.01.03-13.51.55:834][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.01.03-13.51.55:838][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.01.03-13.51.55:841][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.01.03-13.51.55:842][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.01.03-13.51.55:844][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.01.03-13.51.55:846][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.01.03-13.51.55:847][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.01.03-13.51.55:849][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.01.03-13.51.55:850][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.01.03-13.51.55:852][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.01.03-13.51.55:855][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.01.03-13.51.55:857][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.01.03-13.51.55:859][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.01.03-13.51.55:860][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.01.03-13.51.55:862][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.01.03-13.51.55:864][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.01.03-13.51.55:866][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.01.03-13.51.55:870][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.01.03-13.51.55:872][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.01.03-13.51.55:874][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.01.03-13.51.55:876][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.01.03-13.51.55:878][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.01.03-13.51.55:882][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.01.03-13.51.55:883][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.01.03-13.51.55:886][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.01.03-13.51.55:888][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.01.03-13.51.56:035][  0]LogCollectionManager: Loaded 0 collections in 0.002233 seconds
+[2025.01.03-13.51.56:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tjerk/Documents/Unreal Projects/InfiniteMecha/Saved/Collections/' took 0.00s
+[2025.01.03-13.51.56:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tjerk/Documents/Unreal Projects/InfiniteMecha/Content/Developers/Tjerk/Collections/' took 0.00s
+[2025.01.03-13.51.56:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tjerk/Documents/Unreal Projects/InfiniteMecha/Content/Collections/' took 0.00s
+[2025.01.03-13.51.56:217][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.01.03-13.51.56:217][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.01.03-13.51.56:222][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.01.03-13.51.56:222][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.01.03-13.51.56:222][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.01.03-13.51.56:222][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.01.03-13.51.56:323][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.01.03-13.51.56:323][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.01.03-13.51.56:359][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.4-36651368 booting at 2025-01-03T13:51:56.359Z using C
+[2025.01.03-13.51.56:361][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.5072.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=InfiniteMecha, ProductVersion=++UE5+Release-5.5-CL-38445549, IsServer=false, Flags=DisableOverlay]
+[2025.01.03-13.51.56:361][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.01.03-13.51.56:362][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.01.03-13.51.56:371][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.01.03-13.51.56:372][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.01.03-13.51.56:372][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.01.03-13.51.56:372][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000112
+[2025.01.03-13.51.56:372][  0]LogFab: Display: Logging in using persist
+[2025.01.03-13.51.56:451][  0]LogUObjectArray: 43599 objects as part of root set at end of initial load.
+[2025.01.03-13.51.56:451][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.01.03-13.51.56:478][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36293 public script object entries (984.18 KB)
+[2025.01.03-13.51.56:478][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.01.03-13.51.56:726][  0]LogEngine: Initializing Engine...
+[2025.01.03-13.51.56:732][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.01.03-13.51.56:733][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.01.03-13.51.56:930][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.01.03-13.51.56:972][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.03-13.51.56:998][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.01.03-13.51.56:998][  0]LogInit: Texture streaming: Enabled
+[2025.01.03-13.51.57:022][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.1-38445549+++UE5+Release-5.5
+[2025.01.03-13.51.57:039][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.01.03-13.51.57:057][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.01.03-13.51.57:057][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.01.03-13.51.57:058][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.01.03-13.51.57:058][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.03-13.51.57:059][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.03-13.51.57:059][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.03-13.51.57:059][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.03-13.51.57:059][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.03-13.51.57:059][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.03-13.51.57:067][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.03-13.51.57:158][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.01.03-13.51.57:159][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.03-13.51.57:164][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.03-13.51.57:164][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.03-13.51.57:165][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.01.03-13.51.57:165][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.03-13.51.57:168][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.03-13.51.57:168][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.01.03-13.51.57:168][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.01.03-13.51.57:168][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.01.03-13.51.57:168][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.01.03-13.51.57:186][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.01.03-13.51.57:196][  0]LogInit: Undo buffer set to 256 MB
+[2025.01.03-13.51.57:196][  0]LogInit: Transaction tracking system initialized
+[2025.01.03-13.51.57:397][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 5.30ms
+[2025.01.03-13.51.57:405][  0]LocalizationService: Localization service is disabled
+[2025.01.03-13.51.57:442][  0]LogTimingProfiler: Initialize
+[2025.01.03-13.51.57:443][  0]LogTimingProfiler: OnSessionChanged
+[2025.01.03-13.51.57:443][  0]LoadingProfiler: Initialize
+[2025.01.03-13.51.57:443][  0]LoadingProfiler: OnSessionChanged
+[2025.01.03-13.51.57:443][  0]LogNetworkingProfiler: Initialize
+[2025.01.03-13.51.57:444][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.01.03-13.51.57:444][  0]LogMemoryProfiler: Initialize
+[2025.01.03-13.51.57:444][  0]LogMemoryProfiler: OnSessionChanged
+[2025.01.03-13.51.57:634][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.57:636][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.57:638][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.01.03-13.51.58:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tjerk/Documents/Unreal Projects/InfiniteMecha/Content/' took 0.03s
+[2025.01.03-13.51.58:320][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2025.01.03-13.51.58:382][  0]LogPython: Using Python 3.11.8
+[2025.01.03-13.52.00:473][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.01.03-13.52.00:615][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.01.03-13.52.00:615][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.01.03-13.52.00:700][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.01.03-13.52.00:809][  0]LogEditorDataStorage: Initializing
+[2025.01.03-13.52.00:810][  0]LogEditorDataStorage: Initialized
+[2025.01.03-13.52.00:863][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.01.03-13.52.00:873][  0]SourceControl: Revision control is disabled
+[2025.01.03-13.52.00:873][  0]LogUnrealEdMisc: Loading editor; pre map load, took 1110.746
+[2025.01.03-13.52.00:874][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.01.03-13.52.00:875][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/InfiniteMecha/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.03-13.52.00:878][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.03-13.52.00:878][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-13.52.00:898][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.03-13.52.00:900][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.03-13.52.01:439][  0]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 1.177074 MB), EncodeSpeed: Fast
+[2025.01.03-13.52.01:504][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.01.03-13.52.01:504][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.03-13.52.01:507][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.01.03-13.52.01:507][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.03-13.52.01:507][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.03-13.52.01:545][  0]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.026302 MB)...
+[2025.01.03-13.52.01:547][  0]LogStaticMesh: Display: Building static mesh SM_QuarterCylinder (Required Memory Estimate: 0.061604 MB)...
+[2025.01.03-13.52.01:560][  0]LogStaticMesh: Display: Building static mesh SM_ChamferCube (Required Memory Estimate: 0.297096 MB)...
+[2025.01.03-13.52.01:570][  0]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.01.03-13.52.01:570][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.01.03-13.52.01:570][  0]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.01.03-13.52.01:574][  0]LogStaticMesh: Display: Building static mesh SM_Ramp (Required Memory Estimate: 0.020414 MB)...
+[2025.01.03-13.52.01:580][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.01.03-13.52.01:709][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.01.03-13.52.01:722][  0]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh (Required Memory Estimate: 0.756426 MB)...
+[2025.01.03-13.52.01:731][  0]LogStaticMesh: Built static mesh [0.01s] /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2025.01.03-13.52.01:782][  0]LogWorldPartition: Display: WorldPartition initialize took 275.244 ms
+[2025.01.03-13.52.01:837][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.03-13.52.01:862][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.03-13.52.01:863][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.03-13.52.01:864][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.239ms to complete.
+[2025.01.03-13.52.01:886][  0]LogUnrealEdMisc: Total Editor Startup Time, took 1111.759
+[2025.01.03-13.52.01:888][  0]LogShaderCompilers: Display: ================================================
+[2025.01.03-13.52.01:888][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.03-13.52.01:888][  0]LogShaderCompilers: Display: Total job queries 11,480, among them cache hits 1,993 (17.36%), DDC hits 6,312 (54.98%), Duplicates 682 (5.94%)
+[2025.01.03-13.52.01:888][  0]LogShaderCompilers: Display: Tracking 8,805 distinct input hashes that result in 8,331 distinct outputs (94.62%)
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: RAM used: 5.92 MiB of 768.00 MiB budget. Usage: 0.77%
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Shaders Compiled: 2,493
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Jobs assigned 2,493, completed 2,493 (100%)
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Average time worker was idle: 0.05 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 539.84 s, longest 1070.81 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Job execution time: average 21.31 s, max 59.64 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 561.15 s, max 1072.14
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Shader code size: average 22.937 KiB, min 2.578 KiB, max 152.328 KiB
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1077.63 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Jobs were issued in 267 batches (only local compilation was used), average 9.34 jobs/batch
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Total thread time: 5,337.395 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Total thread preprocess time: 237.93 s
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Percentage time preprocessing: 4.46%
+[2025.01.03-13.52.01:889][  0]LogShaderCompilers: Display: Effective parallelization: 4.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 5
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 16.35 sec, max 18.35 sec, min 11.17 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 10.36 sec, max 29.28 sec, min 3.07 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                              FComposeVolumetricRTOverScenePS (compiled    8 times, average 8.30 sec, max 26.68 sec, min 0.49 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 6.18 sec, max 6.18 sec, min 6.18 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   32 times, average 6.07 sec, max 12.22 sec, min 3.46 sec)
+[2025.01.03-13.52.01:890][  0]LogAssetRegistry: Display: Asset registry cache written as 35.0 MiB to ../../../../../Documents/Unreal Projects/InfiniteMecha/Intermediate/CachedAssetRegistry_*.bin
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 26.74% of total time (compiled  454 times, average 3.14 sec, max 6.21 sec, min 2.32 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 14.43% of total time (compiled  480 times, average 1.60 sec, max 14.12 sec, min 0.65 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 7.79% of total time (compiled   72 times, average 5.78 sec, max 8.23 sec, min 3.95 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                                FOcclusionRGS - 7.67% of total time (compiled  192 times, average 2.13 sec, max 17.86 sec, min 1.15 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS - 6.21% of total time (compiled   32 times, average 10.36 sec, max 29.28 sec, min 3.07 sec)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Materials Translated:    134
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Material Translation Only: 0.10 s (51%)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.03-13.52.01:890][  0]LogShaderCompilers: Display: ================================================
+[2025.01.03-13.52.02:166][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.01.03-13.52.02:278][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.01.03-13.52.02:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-13.52.02:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-13.52.02:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-13.52.02:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-13.52.03:258][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:259][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:260][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:260][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:261][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:261][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:262][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:262][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:263][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:263][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:264][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:265][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:265][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:266][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:266][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:267][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:267][  0]LogPakFile: Initializing PakPlatformFile
+[2025.01.03-13.52.03:267][  0]LogPakFile: Display: Mounted Pak file 'C:/Users/Tjerk/Saved Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.01.03-13.52.03:566][  0]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.01.03-13.52.03:588][  0]LogSlate: Took 0.008914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.01.03-13.52.03:600][  0]LogSlate: Took 0.008572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.01.03-13.52.05:891][  0]LogStall: Startup...
+[2025.01.03-13.52.05:899][  0]LogStall: Startup complete.
+[2025.01.03-13.52.05:941][  0]LogLoad: (Engine Initialization) Total time: 1115.81 seconds
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: ================================================
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: Total job queries 11,602, among them cache hits 1,993 (17.18%), DDC hits 6,358 (54.80%), Duplicates 684 (5.90%)
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: Tracking 8,925 distinct input hashes that result in 8,373 distinct outputs (93.82%)
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: RAM used: 5.93 MiB of 768.00 MiB budget. Usage: 0.77%
+[2025.01.03-13.52.06:362][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Shaders Compiled: 2,493
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Jobs assigned 2,498, completed 2,493 (99.80%)
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Average time worker was idle: 0.30 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 538.76 s, longest 1070.81 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Job execution time: average 21.31 s, max 59.64 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 561.15 s, max 1072.14
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Shader code size: average 22.937 KiB, min 2.578 KiB, max 152.328 KiB
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1077.63 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Jobs were issued in 272 batches (only local compilation was used), average 9.18 jobs/batch
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Total thread time: 5,337.395 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Total thread preprocess time: 239.641 s
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Percentage time preprocessing: 4.49%
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Effective parallelization: 4.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 5
+[2025.01.03-13.52.06:363][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 16.35 sec, max 18.35 sec, min 11.17 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 10.36 sec, max 29.28 sec, min 3.07 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                              FComposeVolumetricRTOverScenePS (compiled    8 times, average 8.30 sec, max 26.68 sec, min 0.49 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 6.18 sec, max 6.18 sec, min 6.18 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   32 times, average 6.07 sec, max 12.22 sec, min 3.46 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 26.74% of total time (compiled  454 times, average 3.14 sec, max 6.21 sec, min 2.32 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 14.43% of total time (compiled  480 times, average 1.60 sec, max 14.12 sec, min 0.65 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 7.79% of total time (compiled   72 times, average 5.78 sec, max 8.23 sec, min 3.95 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                                FOcclusionRGS - 7.67% of total time (compiled  192 times, average 2.13 sec, max 17.86 sec, min 1.15 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS - 6.21% of total time (compiled   32 times, average 10.36 sec, max 29.28 sec, min 3.07 sec)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Materials Translated:    135
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Material Translation Only: 0.10 s (51%)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.03-13.52.06:364][  0]LogShaderCompilers: Display: ================================================
+[2025.01.03-13.52.06:475][  0]LogContentStreaming: Texture pool size now 800 MB
+[2025.01.03-13.52.06:475][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2025.01.03-13.52.06:539][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.01.03-13.52.06:658][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-13.52.06:662][  0]LogPython: Display: Running start-up script C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.01.03-13.52.06:761][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.01.03-13.52.06:771][  0]LogPython: Display: Running start-up script C:/Users/Tjerk/Saved Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 108.657 ms
+[2025.01.03-13.52.07:420][  1]LogAssetRegistry: AssetRegistryGather time 82.6959s: AssetDataDiscovery 2.7949s, AssetDataGather 79.7739s, StoreResults 0.1271s. Wall time 1103.4050s.
+	NumCachedDirectories 0. NumUncachedDirectories 1637. NumCachedFiles 0. NumUncachedFiles 7369.
+	BackgroundTickInterruptions 0.
+[2025.01.03-13.52.07:496][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2025.01.03-13.52.07:509][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.01.03-13.52.09:478][ 76]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 13.091269
+[2025.01.03-13.52.09:480][ 76]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.01.03-13.52.09:481][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13.105293
+[2025.01.03-13.52.09:839][101]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.01.03-13.52.10:013][114]LogMeshUtilities: Finished distance field build in 3.0s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 176 triangles, FirstPersonProjectileMesh
+[2025.01.03-13.52.10:530][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 14.100824
+[2025.01.03-13.52.10:536][122]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 758315952
+[2025.01.03-13.52.10:536][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14.100824, Update Interval: 355.244598
+[2025.01.03-13.52.10:963][145]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: c0e...241 Access[Expires: 2025.01.03-15.52.09 Remaining: 7200.97] Refresh[Expires: 2025-07-01T15:51:44.441Z Remaining: 15472775.44] State: Valid
+[2025.01.03-13.52.10:981][146]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.01.03-13.52.11:443][168]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.01.03-13.52.11:443][168]LogFab: Display: User logged in
+[2025.01.03-13.52.11:443][168]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.01.03-13.52.11:870][196]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-XrjH4aa2w0mTNpXEmEo_SA-XI2dTT_SRUSUsCdiz6Mb4w]
+[2025.01.03-13.52.17:497][542]LogSourceControl: Uncontrolled asset enumeration finished in 9.987152 seconds (Found 7344 uncontrolled assets)
+[2025.01.03-13.52.29:651][206]LogPSOHitching: Encountered 50 PSO creation hitches so far (24 graphics, 26 compute). 0 of them were precached.
